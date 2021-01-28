@@ -24,7 +24,7 @@ Lista com projetos concluídos ou em andamento
 
 ### Sobre mim:
 
-Sou Analista de TI atuando em um escritório de advocacia bem conceituado na cidade do Rio de Janeiro/RJ; possuo 8 anos de experiencia na área, trabalhando principalmente com infraestrutura e servidores Windows. Atualmente estou expandindo e aprimorando meus conhecimentos para me tornar um Cientista de Dados.
+Sou Analista de TI atuando em um escritório de advocacia bem conceituado na cidade do Rio de Janeiro / RJ; possuo 8 anos de experiencia na área, trabalhando principalmente com infraestrutura e servidores Windows. Atualmente estou expandindo e aprimorando meus conhecimentos para me tornar um Cientista de Dados.
 
 * Graduando em Gestão de TI pela UNESA.
 * Curso de especialização em Linux pela ADV Informática.
