@@ -18,6 +18,7 @@ Lista com projetos concluídos ou em andamento
 
 <p align="center">
   <img src="body.jpg" >
+  <br>
   <a href="http://www.freepik.com">Designed by slidesgo / Freepik</a>
 </p>
 
