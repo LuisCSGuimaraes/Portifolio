@@ -13,7 +13,7 @@ Um portifólio em expansão com meus projetos de Data Science, Python e Machine 
 ## Projetos:
 Lista com projetos concluídos ou em andamento
 
-* **Analisando os dados do Airbnb:** [![Google Colab](https://img.shields.io/badge/Andamento-0%25-orange.svg?style=flat)](https://colab.research.google.com/notebooks/)
+* **Analisando os dados do Airbnb:** http://bit.ly/36jmkOh [![Google Colab](https://img.shields.io/badge/Andamento-0%25-orange.svg?style=flat)](https://colab.research.google.com/notebooks/)
 
 
 <p align="center">
