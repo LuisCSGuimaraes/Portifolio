@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="cover.jpg" >
+  <a href="http://www.freepik.com">Designed by starline / Freepik</a>
 </p>
 
 Um portifólio em expansão com meus projetos de Data Science, Python e Machine Learning. Todos os projetos bem documentados e com link direto para o Google Colaboratory.
@@ -15,6 +16,10 @@ Lista com projetos concluídos ou em andamento
 * **Analisando os dados do Airbnb:** [![Google Colab](https://img.shields.io/badge/Andamento-0%25-orange.svg?style=flat)](https://colab.research.google.com/notebooks/)
 
 
+<p align="center">
+  <img src="body.jpg" >
+  <a href="http://www.freepik.com">Designed by slidesgo / Freepik</a>
+</p>
 
 ### Sobre mim:
 
