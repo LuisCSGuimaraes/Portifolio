@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Autor-Luis%20Guimar%C3%A3es-lightgrey.svg?style=fla)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg?style=fla)](https://www.python.org/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/LuisCSGuimaraes) [![Google Colab](https://img.shields.io/badge/Google-Colab-yellow.svg?style=flat)](https://colab.research.google.com/notebooks/)
+[![author](https://img.shields.io/badge/Autor-Luis%20Guimar%C3%A3es-lightgrey.svg?style=fla)](https://www.linkedin.com/in/luiscsguimaraes) [![](https://img.shields.io/badge/python-3.7+-blue.svg?style=fla)](https://www.python.org/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/LuisCSGuimaraes) [![Google Colab](https://img.shields.io/badge/Google-Colab-yellow.svg?style=flat)](https://colab.research.google.com/notebooks/)
 
 
 
