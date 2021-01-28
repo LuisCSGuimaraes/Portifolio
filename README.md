@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="cover.jpg" >
+  <img src="banner.jpg" >
   <a href="http://www.freepik.com">Designed by starline / Freepik</a>
 </p>
 
