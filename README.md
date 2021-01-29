@@ -13,7 +13,7 @@ Um portifólio em expansão com meus projetos de Data Science, Python e Machine 
 ## Projetos:
 Lista com projetos concluídos ou em andamento
 
-* **Analisando os Dados de Ottawa - Canada - do Airbnb:** http://bit.ly/3po7v4l  [![Google Colab](https://img.shields.io/badge/Andamento-0%25-orange.svg?style=flat)](https://github.com/LuisCSGuimaraes/Portifolio/blob/main/Analisando_os_dados_do_Airbnb.ipynb)
+* **Analisando os Dados de Ottawa - Canada - do Airbnb:** http://bit.ly/3r5lPir  [![Google Colab](https://img.shields.io/badge/Andamento-0%25-orange.svg?style=flat)](https://github.com/LuisCSGuimaraes/Portifolio/blob/main/Analisando_os_dados_do_Airbnb.ipynb)
 
 
 <p align="center">
