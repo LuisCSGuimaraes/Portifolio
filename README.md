@@ -7,7 +7,7 @@
   <a href="http://www.freepik.com">Designed by starline / Freepik</a>
 </p>
 
-Um portifólio em expansão com meus projetos de Data Science, Python e Machine Learning. Todos os projetos bem documentados e com link direto para o Google Colaboratory.
+Um portfólio em expansão com meus projetos de Data Science, Python e Machine Learning. Todos os projetos bem documentados e com link direto para o Google Colaboratory.
 
 
 ## Projetos:
