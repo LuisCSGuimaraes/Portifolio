@@ -8,6 +8,11 @@
 </p>
 
 Um portfólio em expansão com meus projetos de Data Science, Python e Machine Learning. Todos os projetos bem documentados e com link direto para o Google Colaboratory.
+Me adicione no LinkedIn ou me siga no Medium para ler meus artigos e descobrir meus novos projetos:
+
+**LinkedIn:** https://www.linkedin.com/in/luiscsguimaraes/
+
+**Medium:** https://luis-guimaraes.medium.com/
 
 
 ## Projetos:
