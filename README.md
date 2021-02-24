@@ -21,7 +21,7 @@ Lista com projetos concluídos ou em andamento
 
 
 * **Analisando os Dados de Toronto - Canadá - Airbnb:** http://bit.ly/2YApJDV [![Google Colab](https://img.shields.io/badge/Andamento-100%25-green.svg?style=flat)](https://github.com/LuisCSGuimaraes/Portifolio/blob/main/Analisando_os_dados_do_Airbnb.ipynb)
-*  **Análise exploratória da violência no Rio de Janeiro:** ![Google Colab](https://img.shields.io/badge/Andamento-15%25-blue.svg)
+*  **Análise exploratória da violência no Rio de Janeiro:** https://bit.ly/3dCCUNj [![Google Colab](https://img.shields.io/badge/Andamento-100%25-green.svg?style=flat)](https://github.com/LuisCSGuimaraes/Portfolio/blob/main/An%C3%A1lise_explorat%C3%B3ria_da_viol%C3%AAncia_no_estado_do_Rio_de_Janeiro.ipynb)
 
 
 <p align="center">
